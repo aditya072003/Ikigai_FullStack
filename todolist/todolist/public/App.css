@@ -1,0 +1,10 @@
+.i1:hover{
+  background-color: white;
+  .i2{
+    color:chartreuse;
+  }
+  .i3{
+    color:red;
+  }
+
+}
